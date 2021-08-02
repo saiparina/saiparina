@@ -1,0 +1,3 @@
+- 👋 Hi, I’m saiparina
+- 👀 I’m interested in Java, C++ and Rust
+- 🌱 I’m currently learning Rust
